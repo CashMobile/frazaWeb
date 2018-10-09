@@ -1,0 +1,28 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "It's a web application to manage insurance, it will be multiplatform(Different insurance company)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CashMobile/frazaWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CashMobile/frazaWeb/issues"
+  },
+  "homepage": "https://github.com/CashMobile/frazaWeb#readme",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "bookshelf": "^0.13.3",
+    "express": "^4.16.3",
+    "knex": "^0.15.2",
+    "live-server": "^1.2.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4"
+  }
+}
